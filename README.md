@@ -44,3 +44,7 @@ Model Training: A Multinomial Naive Bayes model is trained on the TF-IDF vectors
 
 Prediction and Evaluation: The model's predictions are compared against the true labels of the test set, and metrics like Accuracy and the Classification Report are printed to assess performance.
 
+
+
+USED REGRESSION..
+
